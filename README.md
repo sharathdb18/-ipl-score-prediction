@@ -8,4 +8,15 @@ This project predicts the final score of an IPL innings using a deep learning mo
 - Feature engineering: run rate, wickets, overs, recent performance
 - Dataset from 2008–2017 IPL matches
 
-## 📁 Folder Structure
+
+## 📊 Example Input
+- Batting Team: CSK
+- Bowling Team: MI
+- Overs: 10.2
+- Runs: 89
+- Wickets: 3
+- Last 5 overs: 47
+
+📈 **Predicted Final Score**: 173
+
+
